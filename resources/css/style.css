@@ -1,16 +1,18 @@
 /* FILEPATH: /Users/janoliverbieker/bastel/codeCademy/excursion/resources/css/style.css */
-font-family:Verdana, sans-serif;
+body {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    background-color: black;
+}
 
-.h1 {
+h1 {
     font-family: Verdana, sans-serif;
     font-weight: normal;
     font-size: 50px;
     color: white;
-    text-align: center;
 }
 
 #download {
     color: aquamarine;
-    text-align: center;
     font-size: 16px;
 }
